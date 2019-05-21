@@ -1,0 +1,27 @@
+{
+    "name": "bankwing/yii2-flatpicker",
+    "description": "Flatpicker V4 for Yii2",
+    "keywords": ["yii2", "extension", "datetime picker", "flatpickr"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Bankwing",
+            "email": "bankwing@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/bankwing/yii2-flatpicker/issues?state=open",
+        "source": "https://github.com/bankwing/yii2-flatpicker"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "npm-asset/flatpickr": "^4.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "bankwing\\Flatpickr\\": "src"
+        }
+    }
+}
