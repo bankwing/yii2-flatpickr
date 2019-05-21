@@ -14,7 +14,6 @@
         "issues": "https://github.com/bankwing/yii2-flatpicker/issues?state=open",
         "source": "https://github.com/bankwing/yii2-flatpicker"
     },
-    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "npm-asset/flatpickr": "^4.5"
